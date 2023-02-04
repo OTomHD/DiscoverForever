@@ -5,7 +5,9 @@ Set up as a cron job that runs weekly to add my Discover Weekly playlist to my D
 
 Uses spotipy
 
+``` pip install configparser ```
 ``` pip install spotipy ```
+
 
 # Templete config file
 
